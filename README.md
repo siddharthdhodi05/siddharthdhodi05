@@ -23,7 +23,7 @@ Hi, I'm Siddharth Dhodi!
 
 <pre>
 💻 I am a self taught Full Stack Developer.
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+📚 I have a Bachelors in Computer Engineering from Mumbai University
 🔭 I’m currently using on React, Nodejs, Express MongoDB
 ☁️ I have a keen interest in Full Stack Web Applications.
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
