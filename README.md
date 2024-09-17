@@ -38,10 +38,10 @@ Hi, I'm Siddharth Dhodi!
 	<a href="https://github.com/siddharthdhodi05"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## 🛠️ My Favorite Tools
+## 🛠️ Technologies That I Know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,c,react,redux,tailwind,bootstrap,vscode," />
   </a>
 </p>
 
