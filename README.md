@@ -38,6 +38,14 @@ Hi, I'm Siddharth Dhodi!
 	<a href="https://github.com/siddharthdhodi05"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+### 📊 Github Stats
+<a href='https://github.com/siddharthdhodi05'>
+  
+![siddharthdhodi05's Stats](https://github-readme-stats.vercel.app/api?username=siddharthdhodi05&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![siddharthdhodi05's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthdhodi05&theme=tokyonight&hide_border=false)
+![siddharthdhodi05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthdhodi05&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+</a>
+
 ## 🛠️ Technologies That I Know
 <p align="center">
   <a href="https://skillicons.dev">
