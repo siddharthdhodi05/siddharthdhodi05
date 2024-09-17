@@ -38,13 +38,26 @@ Hi, I'm Siddharth Dhodi!
 	<a href="https://github.com/siddharthdhodi05"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-### 📊 Github Stats
-<a href='https://github.com/siddharthdhodi05'>
+## 📊 Github Stats
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
-![siddharthdhodi05's Stats](https://github-readme-stats.vercel.app/api?username=siddharthdhodi05&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![siddharthdhodi05's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthdhodi05&theme=tokyonight&hide_border=false)
-![siddharthdhodi05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthdhodi05&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-</a>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=siddharthdhodi05&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthdhodi05&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siddharthdhodi05&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
 
 ## 🛠️ Technologies That I Know
 <p align="center">
