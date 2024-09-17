@@ -31,12 +31,6 @@ Hi, I'm Siddharth Dhodi!
 </pre>
 <hr>
 
-## 🤝 Connect with me
-<p align="center">
-	<a href="mailto:siddharth.dhodi.work@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/siddharth-dhodi-108790319/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/siddharthdhodi05"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 ## 📊 Github Stats
 
@@ -64,6 +58,13 @@ Hi, I'm Siddharth Dhodi!
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,c,react,redux,tailwind,bootstrap,vscode," />
   </a>
+</p>
+
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:siddharth.dhodi.work@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/siddharth-dhodi-108790319/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/siddharthdhodi05"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 
