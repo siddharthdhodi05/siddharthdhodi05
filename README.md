@@ -1,9 +1,12 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h1 align="center">
 Hi, I'm Siddharth Dhodi!
 	<a href="https://github.com/siddharthdhodi05" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
+
 </h1>
+
 <p align="center">
 	<a href="https://github.com/siddharthdhodi05">
 		<img src="https://komarev.com/ghpvc/?username=siddharthdhodi05&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthdhodi05" />
@@ -51,7 +54,7 @@ Hi, I'm Siddharth Dhodi!
 </tr>
 </table>
 <!--- stats (end) -->
-
+<hr>
 
 ## 🛠️ Technologies That I Know
 <p align="center">
@@ -59,6 +62,7 @@ Hi, I'm Siddharth Dhodi!
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,c,react,redux,tailwind,bootstrap,vscode," />
   </a>
 </p>
+<hr>
 
 ## 🤝 Connect with me
 <p align="center">
