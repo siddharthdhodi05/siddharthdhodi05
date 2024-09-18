@@ -9,7 +9,9 @@ Hi, I'm Siddharth Dhodi!
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
 <br />
-> I am a hardworking individual who is dedicated towards his goals.
+<a href="https://github.com/siddharthdhodi05">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Computer+Engineering+Graduate;Web-Application+Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
 <br />
 
 - 🌱 &nbsp;I am a self taught Full Stack Developer.
