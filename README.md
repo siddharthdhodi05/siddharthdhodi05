@@ -53,7 +53,9 @@ Hi, I'm Siddharth Dhodi!
 </tr>
 </table>
 <!--- stats (end) -->
+<br/>
 <hr>
+
 
 ## 🛠️ Technologies That I Know
 <p align="center">
@@ -62,6 +64,12 @@ Hi, I'm Siddharth Dhodi!
   </a>
 </p>
 <hr>
+<br/>
+
+## 🏆 GitHub Trophies
+![]( https://github-profile-trophy.vercel.app/?username=siddharthdhodi05&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
+<br/>
 
 ## 🤝 Connect with me
 <p align="center">
