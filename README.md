@@ -34,8 +34,7 @@ Hi, I'm Siddharth Dhodi!
 - 💬 I have a keen interest in Full Stack Web Applications
 - 😄 Pronouns: He/Him
 - 📝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
-- 👯 Feel free to reach me out at [siddharth.dhodi.work@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmVXHXNxwxrWgFLmrdTzftnwrRGqpfxtRbbPlBsQklSFJZKxJqSMQcSdBvGdvJmwwGbfJq)♟ to play some games
-
+- 📫  How to reach me: siddharth.dhodi.work@gmail.com.
 <hr>
 <table align="center">
 <tr border="none">
