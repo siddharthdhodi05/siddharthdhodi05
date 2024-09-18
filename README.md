@@ -58,7 +58,7 @@ Hi, I'm Siddharth Dhodi!
 ## 🛠️ Technologies That I Know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,c,react,redux,tailwind,bootstrap,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,c,react,redux,tailwind,bootstrap,vscode," />
   </a>
 </p>
 <hr>
