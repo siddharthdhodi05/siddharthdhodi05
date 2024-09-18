@@ -77,6 +77,11 @@ Hi, I'm Siddharth Dhodi!
 	<a href="https://www.linkedin.com/in/siddharth-dhodi-108790319/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/siddharthdhodi05"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+<br/>
+<hr>
 
+## ✍️ Random Dev Quote
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
+<hr>
