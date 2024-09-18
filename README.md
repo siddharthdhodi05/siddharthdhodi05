@@ -22,21 +22,21 @@ Hi, I'm Siddharth Dhodi!
 	</a>
 </p>
 
+
+
 <hr>
 
-<pre>
-💻 I am a self taught Full Stack Developer.
-📚 I have a Bachelors in Computer Engineering from Mumbai University
-🔭 I’m currently using on React, Nodejs, Express MongoDB
-☁️ I have a keen interest in Full Stack Web Applications.
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
-📫 Feel free to reach me out at <a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmVXHXNxwxrWgFLmrdTzftnwrRGqpfxtRbbPlBsQklSFJZKxJqSMQcSdBvGdvJmwwGbfJq" target=_blank">siddharth.dhodi.work@gmail.com</a>
-</pre>
+### 🤵 About Me:
+- 🏦 I am a self taught Full Stack Developer.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📚 I have a Bachelors in Computer Engineering from Mumbai University
+- 🌱 I’m currently using on React, Nodejs, Express MongoDB
+- 💬 I have a keen interest in Full Stack Web Applications
+- 😄 Pronouns: He/Him
+- 📝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
+- 👯 Feel free to reach me out at [siddharth.dhodi.work@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmVXHXNxwxrWgFLmrdTzftnwrRGqpfxtRbbPlBsQklSFJZKxJqSMQcSdBvGdvJmwwGbfJq)♟ to play some games
+
 <hr>
-
-
-## 📊 Github Stats
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
