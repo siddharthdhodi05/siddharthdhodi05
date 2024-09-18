@@ -6,7 +6,21 @@ Hi, I'm Siddharth Dhodi!
 	</a>
 
 </h1>
+ <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ 
+<br />
+> I am a hardworking individual who is dedicated towards his goals.
+<br />
 
+- 🌱 &nbsp;I am a self taught Full Stack Developer.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📚 I have a Bachelors in Computer Engineering from Mumbai University
+- 🌱 I’m currently using on React, Nodejs, Express MongoDB
+- 💬 I have a keen interest in Full Stack Web Applications
+- 💬 Ask me about: anything, I am happy to help
+- 📝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
+- 📫  How to reach me: siddharth.dhodi.work@gmail.com.
+<br><br><br><br>
 <p align="center">
 	<a href="https://github.com/siddharthdhodi05">
 		<img src="https://komarev.com/ghpvc/?username=siddharthdhodi05&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthdhodi05" />
@@ -16,26 +30,13 @@ Hi, I'm Siddharth Dhodi!
 	</a>
 </p>
 <br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Graduate;Full+Stack+Web+Developer;Computer+Science+Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
+
 
 
 
 <hr>
 
-### 🤵 About Me:
-- 🏦 I am a self taught Full Stack Developer.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📚 I have a Bachelors in Computer Engineering from Mumbai University
-- 🌱 I’m currently using on React, Nodejs, Express MongoDB
-- 💬 I have a keen interest in Full Stack Web Applications
-- 😄 Pronouns: He/Him
-- 📝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
-- 📫  How to reach me: siddharth.dhodi.work@gmail.com.
-<hr>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
