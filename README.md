@@ -19,7 +19,6 @@ Hi, I'm Siddharth Dhodi!
 - 📚 I have a Bachelors in Computer Engineering from Mumbai University
 - 🌱 I’m currently using on React, Nodejs, Express MongoDB
 - 💬 I have a keen interest in Full Stack Web Applications
-- 💬 Ask me about: anything, I am happy to help
 - 📝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
 - 📫  How to reach me: siddharth.dhodi.work@gmail.com.
 <br><br><br><br>
@@ -33,11 +32,9 @@ Hi, I'm Siddharth Dhodi!
 </p>
 <br/>
 
-
-
-
 <hr>
 
+## 🛠️ My GitHub Stats and Activity📈 
 
 <table align="center">
 <tr border="none">
