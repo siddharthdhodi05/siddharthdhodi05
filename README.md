@@ -22,14 +22,7 @@ Hi, I'm Siddharth Dhodi!
 - 📝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
 - 📫  How to reach me: siddharth.dhodi.work@gmail.com.
 <br><br><br><br>
-<p align="center">
-	<a href="https://github.com/siddharthdhodi05">
-		<img src="https://komarev.com/ghpvc/?username=siddharthdhodi05&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthdhodi05" />
-	</a>
-	<a href="https://github.com/siddharthdhodi05">
-		<img src="https://img.shields.io/github/followers/siddharthdhodi05?label=Followers" alt="siddharthdhodi05" />
-	</a>
-</p>
+
 <br/>
 
 <hr>
@@ -70,6 +63,7 @@ Hi, I'm Siddharth Dhodi!
 ![]( https://github-profile-trophy.vercel.app/?username=siddharthdhodi05&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 <br/>
+<hr>
 
 ## 🤝 Connect with me
 <p align="center">
@@ -84,4 +78,12 @@ Hi, I'm Siddharth Dhodi!
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
-<hr>
+
+<p align="center">
+	<a href="https://github.com/siddharthdhodi05">
+		<img src="https://komarev.com/ghpvc/?username=siddharthdhodi05&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthdhodi05" />
+	</a>
+	<a href="https://github.com/siddharthdhodi05">
+		<img src="https://img.shields.io/github/followers/siddharthdhodi05?label=Followers" alt="siddharthdhodi05" />
+	</a>
+</p>
