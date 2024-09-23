@@ -57,13 +57,6 @@ Hi, I'm Siddharth Dhodi!
   </a>
 </p>
 <hr>
-<br/>
-
-## 🏆 GitHub Trophies
-![]( https://github-profile-trophy.vercel.app/?username=siddharthdhodi05&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-<br/>
-<hr>
 
 ## 🤝 Connect with me
 <br/>
@@ -75,11 +68,6 @@ Hi, I'm Siddharth Dhodi!
 </p>
 <br/>
 <hr>
-
-## ✍️ Random Dev Quote
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
-
 
 <p align="center">
 	<a href="https://github.com/siddharthdhodi05">
