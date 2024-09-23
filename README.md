@@ -28,7 +28,7 @@ I’m a **self-taught developer** and a **life-long learner**, always curious ab
 ### 📫 Contact Me:
 - Email: **siddharth.dhodi.work@gmail.com**
 - [**LinkedIn**](https://www.linkedin.com/in/siddharth-dhodi-108790319/)
-<br/>
+
 <hr>
 
 ## 🛠️ Technologies That I Know
