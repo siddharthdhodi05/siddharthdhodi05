@@ -28,13 +28,15 @@ I’m a **self-taught developer** and a **life-long learner**, always curious ab
 ### 📫 Contact Me:
 - Email: **siddharth.dhodi.work@gmail.com**
 - [**LinkedIn**](https://www.linkedin.com/in/siddharth-dhodi-108790319/)
-<p >
-<a href="https://www.linkedin.com/in/siddharth-dhodi-108790319/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.instagram.com/_sidddo_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a target="_blank" href="https://x.com/DhodiSiddharth_"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br/>
+<hr>
+
+## 🛠️ Technologies That I Know
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,c,react,redux,tailwind,bootstrap,vscode,anaconda,fastapi,mongodb,mysql,nodejs,npm,pycharm" />
+  </a>
 </p>
-
-
 
 <hr>
 
@@ -57,18 +59,22 @@ I’m a **self-taught developer** and a **life-long learner**, always curious ab
 </tr>
 </table>
 <!--- stats (end) -->
-<br/>
-<hr>
 
 
-## 🛠️ Technologies That I Know
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,c,react,redux,tailwind,bootstrap,vscode,anaconda,fastapi,mongodb,mysql,nodejs,npm,pycharm" />
-  </a>
+
+
+
+
+
+
+
+<!--</h1>
+ <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ <p >
+<a href="https://www.linkedin.com/in/siddharth-dhodi-108790319/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/_sidddo_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a target="_blank" href="https://x.com/DhodiSiddharth_"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 </p>
-<hr>
-
 <p align="center">
 	<a href="https://github.com/siddharthdhodi05">
 		<img src="https://komarev.com/ghpvc/?username=siddharthdhodi05&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthdhodi05" />
@@ -78,8 +84,4 @@ I’m a **self-taught developer** and a **life-long learner**, always curious ab
 	</a>
 </p>
 
-
-<!--</h1>
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
 <br />
