@@ -5,25 +5,31 @@ Hi, I'm Siddharth Dhodi!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 
-</h1>
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
-<br />
-<a href="https://github.com/siddharthdhodi05">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Computer+Engineering+Graduate;Web-Application+Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-<br />
+## 👋 About Me <a href="https://github.com/siddharthdhodi05">
 
-- 🌱 &nbsp;I am a self taught Full Stack Developer.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📚 I have a Bachelors in Computer Engineering from Mumbai University
-- 🌱 I’m currently using on React, Nodejs, Express MongoDB
-- 💬 I have a keen interest in Full Stack Web Applications
-- 📝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a  target="_blank">MY RESUME.</a>
-- 📫  How to reach me: siddharth.dhodi.work@gmail.com.
-<br><br><br><br>
+Hey, I'm **Siddharth Dhodi**, a passionate **Full Stack Developer** with a degree in **Computer Engineering** 
+from Mumbai University. I enjoy building web applications using the **MERN** stack (MongoDB, Express.js, React, Node.js),
+ focusing on both frontend and backend development.
+
+I’m a **self-taught developer** and a **life-long learner**, always curious about new technologies and eager to enhance my skills. Currently, I’m diving deeper into **React**, **Node.js**, and exploring **TypeScript** for more efficient and scalable development.
+
+
+
+### What I'm Working On: 
+- Building responsive web apps with **React** and **Tailwind**. <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+- Developing secure and scalable backend systems with **Node.js** and **Express**.
+- Exploring **TypeScript** to add type safety to my projects.
+
+### Open to:
+- **Job Opportunities**: Looking for internships or full-time roles in Full Stack development.
+- **Collaborations**: I’m always interested in collaborating on innovative projects or contributing to open-source.
+
+### 📫 Contact Me:
+- Email: **siddharth.dhodi.work@gmail.com**
+- [**LinkedIn**](https://www.linkedin.com/in/siddharth-dhodi-108790319/)
 
 <br/>
+
 
 <hr>
 
@@ -69,6 +75,9 @@ Hi, I'm Siddharth Dhodi!
 <br/>
 <hr>
 
+
+
+
 <p align="center">
 	<a href="https://github.com/siddharthdhodi05">
 		<img src="https://komarev.com/ghpvc/?username=siddharthdhodi05&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthdhodi05" />
@@ -77,3 +86,9 @@ Hi, I'm Siddharth Dhodi!
 		<img src="https://img.shields.io/github/followers/siddharthdhodi05?label=Followers" alt="siddharthdhodi05" />
 	</a>
 </p>
+
+
+<!--</h1>
+ <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ 
+<br />
