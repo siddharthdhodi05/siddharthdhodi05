@@ -16,7 +16,7 @@ I’m a **self-taught developer** and a **life-long learner**, always curious ab
 
 
 ### What I'm Working On: 
-- Building responsive web apps with **React** and **Tailwind**. <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+- Building responsive web apps with **React** and **Tailwind**. <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 - Developing secure and scalable backend systems with **Node.js** and **Express**.
 - Exploring **TypeScript** to add type safety to my projects.
 
