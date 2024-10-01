@@ -12,14 +12,14 @@ Hey, I'm **Siddharth Dhodi**, a passionate **Full Stack Developer** with a degre
 from Mumbai University. I enjoy building web applications using the **MERN** stack (MongoDB, Express.js, React, Node.js),
  focusing on both frontend and backend development.
 
-I’m a **self-taught developer** and a **life-long learner**, always curious about new technologies and eager to enhance my skills. Currently, I’m diving deeper into **React**, **Node.js**, and exploring **TypeScript** for more efficient and scalable development.
+I’m a **self-taught developer** and a **life-long learner**, always curious about new technologies and eager to enhance my skills. Currently, I’m diving deeper into **React**, **Node.js**, and learning **TypeScript** for more efficient and scalable development.
 
 
 
 ### What I'm Working On: 
 - Building responsive web apps with **React** and **Tailwind**. <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 - Developing secure and scalable backend systems with **Node.js** and **Express**.
-- Exploring **TypeScript** to add type safety to my projects.
+- Currently learning **TypeScript** to enhance my projects with type safety.
 
 ### Open to:
 - **Job Opportunities**: Looking for internships or full-time roles in Full Stack development.
