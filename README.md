@@ -68,7 +68,9 @@ I’m a **self-taught developer** and a **life-long learner**, always curious ab
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=siddharthdhodi05&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthdhodi05&theme=dark&hide_border=false" /> 
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=siddharthdhodi05&theme=dark)
+
 </td>
 
 <td width="50%" align="center">
