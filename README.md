@@ -20,9 +20,10 @@ I specialize in the **MERN** stack and love building responsive, scalable web ap
 - Collaborating on open-source projects  
 - Exploring new technologies  
 
-### 📫 Contact Me  
+### 🤝 Let’s Connect!  
+I’m actively looking for **Full Stack Developer** roles. Feel free to reach out for opportunities or collaborations!  
 - **Email**: siddharth.dhodi.work@gmail.com  
-- [**LinkedIn**](https://www.linkedin.com/in/siddharth-dhodi-108790319/)  
+- **LinkedIn**: [Siddharth Dhodi](https://www.linkedin.com/in/siddharth-dhodi-108790319/)  
 
 ---
 
