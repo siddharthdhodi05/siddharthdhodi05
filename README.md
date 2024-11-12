@@ -10,15 +10,15 @@ Hi, I'm Siddharth Dhodi!
 ## 👋 About Me  
 Hey! I'm **Siddharth Dhodi**, a passionate **Full Stack Developer** with a degree in **Computer Engineering** from Mumbai University.  
 I specialize in the **MERN** stack and love building responsive, scalable web applications.  
-
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 ### 🔍 Currently Learning  
 - **TypeScript** for better scalability  
-- Advanced **React** & **Node.js** for full-stack expertise  <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+- Advanced **React** & **Node.js** for full-stack expertise  
 
-### 🌟 Interests  
+<!--### 🌟 Interests  
 - Building impactful web applications  
 - Collaborating on open-source projects  
-- Exploring new technologies  
+- Exploring new technologies  -->
 
 ### 🤝 Let’s Connect!  
 I’m actively looking for **Full Stack Developer** roles. Feel free to reach out for opportunities or collaborations!  
