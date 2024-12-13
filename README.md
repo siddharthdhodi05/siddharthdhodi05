@@ -8,26 +8,22 @@ Hi, I'm Siddharth Dhodi!
 </h1>
 
 ## 👋 About Me  
-Hey! I'm **Siddharth Dhodi**, a passionate **Full Stack Developer** with a degree in **Computer Engineering** from Mumbai University.  
-I specialize in the **MERN** stack and love building responsive, scalable web applications.  
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-### 🔍 Currently Learning  
-- **TypeScript** for better scalability  
-- Advanced **React** & **Node.js** for full-stack expertise  
+Hello! I'm **Siddharth Dhodi**, a dedicated **Full Stack Developer** with a **Computer Engineering** degree from Mumbai University.  
+My expertise lies in the **MERN** stack, and I enjoy crafting responsive and scalable web applications.  
+<img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+### 🔍 What I’m Exploring  
+- **TypeScript** to enhance development efficiency.  
+- Advanced **React** & **Node.js** to refine my full-stack skills.  
 
-<!--### 🌟 Interests  
-- Building impactful web applications  
-- Collaborating on open-source projects  
-- Exploring new technologies  -->
-
-### 🤝 Let’s Connect!  
-I’m actively looking for **Full Stack Developer** roles. Feel free to reach out for opportunities or collaborations!  
+### 🤝 Let’s Collaborate  
+I’m open to **Full Stack Developer** roles and collaboration opportunities.  
+Feel free to reach out via:  
 - **Email**: siddharth.dhodi.work@gmail.com  
 - **LinkedIn**: [Siddharth Dhodi](https://www.linkedin.com/in/siddharth-dhodi-108790319/)  
 
 ---
 
-## 🛠️ Technologies  
+## 🛠️ My Toolkit  
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,7 +35,7 @@ I’m actively looking for **Full Stack Developer** roles. Feel free to reach ou
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Highlights  
 <table align="center">
 <tr>
 <td align="center">
@@ -52,6 +48,7 @@ I’m actively looking for **Full Stack Developer** roles. Feel free to reach ou
 </td>
 </tr>
 </table>
+
 
 
 
