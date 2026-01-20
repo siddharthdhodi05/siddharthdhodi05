@@ -10,7 +10,7 @@ Hi, I'm Siddharth Dhodi!
 ## 👋 About Me  
 Hello! I'm **Siddharth Dhodi**, a Full-Stack Developer skilled in designing and delivering scalable, high-performance web applications. Strong
 command of software engineering principles, data structures, algorithms, and system design. Proficient in
-building optimized, production-ready solutions aligned with industry standards
+building optimized, production-ready solutions aligned with industry standards.
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 ### 🔍 What I’m Exploring  
 - **TypeScript** to enhance development efficiency.  
