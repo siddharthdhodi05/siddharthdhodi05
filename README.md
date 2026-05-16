@@ -31,7 +31,7 @@ Building scalable, production-ready web applications while sharpening problem-so
 
 ## 🚀 About Me
 
-<img align="right" width="290" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif"/>
+<!-- <img align="right" width="290" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif"/> -->
 
 - 💻 Full Stack Developer focused on designing scalable and optimized web applications.
 - 🧠 Strong understanding of software engineering principles, backend architecture, and clean code practices.
