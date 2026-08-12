@@ -142,11 +142,7 @@ I build scalable web applications, design backend systems, and enjoy solving com
 
 ---
 
-## 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharthdhodi05&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 [![](https://komarev.com/ghpvc/?username=siddharthdhodi05&color=0e75b6)](https://github.com/siddharthdhodi05)
 
@@ -156,23 +152,5 @@ I build scalable web applications, design backend systems, and enjoy solving com
 >
 > — Edsger Dijkstra
 
-
-
-
----
-
-### I believe good software should be:
-
-- Simple before clever.
-- Maintainable before complex.
-- Measurable before optimized.
-- Designed for scalability.
-- Built with users in mind.
-
----
-
-<h3 align="center">
-Thanks for stopping by 👋
-</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
